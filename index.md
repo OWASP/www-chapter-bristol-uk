@@ -7,6 +7,7 @@ level: 4
 
 region: Europe
 
+migrated: 1
 ---
 
 Welcome to OWASP Bristol Chapter 
