@@ -1,8 +1,18 @@
+
+### OWASP Information
+* [Become a Member](https://www.owasp.org/index.php/Membership)
+* [Local Chapter Support](https://www.owasp.org/index.php/Local_Chapter_Supporter)
+* [Chapter Leader Handbook](https://www.owasp.org/index.php/Chapter_Leader_Handbook)
+* [Speaker Agreement](https://www.owasp.org/index.php/Speaker_Agreement)
+* [Code of Conduct](https://www.owasp.org/index.php/Governance/Conference_Policies)
+
+
 ### Social Links
 * [Meetup](https://www.meetup.com/OWASP-Bristol/)
 * [Twitter](https://twitter.com/OWASPBristol)
 
-### Projects
-* [Wiki Page](https://www.owasp.org/index.php/Bristol)
-* [OWASP Proactive Controls](https://www.owasp.org/index.php/OWASP_Proactive_Controls)
-* [Decomposing Security Vulnerabilities](https://www.youtube.com/watch?v=5Ee_mWgRRQk)
+### Code Repository
+* [Page Repo](https://github.com/OWASP/www-chapter-bristol-uk)
+* [Slides Repo](https://github.com/OWASP/www-chapter-london/tree/master/assets/slides)
+
+
