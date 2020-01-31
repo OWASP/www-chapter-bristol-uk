@@ -57,14 +57,14 @@ Please see the [Meetup](https://www.meetup.com/owasp-bristol/) page for schedule
 
 #### 2016
 * [2016-11-17](http://meetu.ps/2Xtpll): Exploits in embedded systems
-* [[2016-09-15](http://meetu.ps/2Xtpgw):How to test your software for security
-* [[2016-07-21-](http://meetu.ps/2Xtp9Y):  OT & Car hacking
-* [[2016-05-20-]](http://www.meetup.com/OWASP-Bristol/events/229465685/): Threat Modelling
-* [[2016-03-17-](http://www.meetup.com/OWASP-Bristol/events/228380487/)
-* [[2016-01-21-](http://www.meetup.com/OWASP-Bristol/events/227419895/)
+* [2016-09-15](http://meetu.ps/2Xtpgw): How to test your software for security
+* [2016-07-21](http://meetu.ps/2Xtp9Y): OT & Car hacking
+* [2016-05-20](http://www.meetup.com/OWASP-Bristol/events/229465685/): Threat Modelling
+* [2016-03-17](http://www.meetup.com/OWASP-Bristol/events/228380487/)
+* [2016-01-21](http://www.meetup.com/OWASP-Bristol/events/227419895/)
 
 #### 2015
-* [[2015-11-19-](http://www.meetup.com/OWASP-Bristol/events/226348152/)
-* [[2015-07-02-]]
+* [2015-11-19](http://www.meetup.com/OWASP-Bristol/events/226348152/)
+* [2015-07-02]
 
 
