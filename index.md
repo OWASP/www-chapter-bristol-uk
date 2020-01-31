@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP bristol uk
+title: OWASP Bristol, UK
 tags: bristol-tag
 region: Europe
 
