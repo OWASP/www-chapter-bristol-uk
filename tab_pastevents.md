@@ -3,7 +3,7 @@ title: Example
 layout:  null
 tab: true
 order: 1
-tags: example-tag
+tags: bristol-tag
 ---
 
 For the next scheduled events, pleave vitis the [Meetup](https://www.meetup.com/owasp-bristol/) page. 
