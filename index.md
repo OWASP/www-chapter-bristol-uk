@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP bristol uk
-tags: 
+tags: bristol-tag
 region: Europe
 
 ---
@@ -51,7 +51,7 @@ Please see the [Meetup](https://www.meetup.com/owasp-bristol/) page for schedule
 * [2017-11-30](https://www.meetup.com/OWASP-Bristol/events/244761832/): "Three Ways of Security” and Cookie Security - Myths and Misconceptions"
 * [2017-11-23](https://www.meetup.com/OWASP-Bristol/events/241535079/): "A Corporate Phishing Trip & Modern Access Management"
 * [2017-09-28](https://www.meetup.com/OWASP-Bristol/events/240114497/): "Website hacking and Threat Modelling"
-* [2017-06-22](https://www.meetup.com/OWASP-Bristol/events/235736793/): "IoT and Securing financial APIs" - [https://www.owasp.org/images/5/58/OWASP-Bristol-2017-June.pdf OWASP Resources] 
+* [2017-06-22](https://www.meetup.com/OWASP-Bristol/events/235736793/): "IoT and Securing financial APIs" 
 * [2017-04-20](https://www.meetup.com/OWASP-Bristol/events/235736782/): "The path of secure software"
 * [2017-03-09](https://www.meetup.com/OWASP-Bristol/events/235736769/): "OWASP Top 10 Proactive Controls"
 
