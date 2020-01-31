@@ -34,11 +34,18 @@ Please see the [Meetup](https://www.meetup.com/owasp-bristol/) page for schedule
 
 
 #### 2018
-* [2018-11-15](https://www.meetup.com/OWASP-Bristol/events/254049342/): Talk 1 Slides: [Android app hacker’s toolbox](https://github.com/OWASP/www-chapter-bristol-uk/blob/master/assets/slides/2018/OWASP-Android-Hackers-Toolbox.pptx)  /  Talk 2 Slides & Videos: [Red Team Tactics part 2](https://github.com/OWASP/www-chapter-bristol-uk/blob/master/assets/slides/2018/ OWASPBristol-Red-Team-15-11-2018.pdf) Video: [Kerberos Phase2](https://youtu.be/cwFXc5d6sXY)[RedTeam Phase2 Service Account](https://youtu.be/7Le44AFAtGc)
+* [2018-11-15](https://www.meetup.com/OWASP-Bristol/events/254049342/): 
+    * Talk 1 Slides: [Android app hacker’s toolbox](https://github.com/OWASP/www-chapter-bristol-uk/blob/master/assets/slides/2018/OWASP-Android-Hackers-Toolbox.pptx)   
+    * Talk 2 Slides & Videos: [Red Team Tactics part 2](https://github.com/OWASP/www-chapter-bristol-uk/blob/master/assets/slides/2018/OWASPBristol-Red-Team-15-11-2018.pdf) Video: [Kerberos Phase2](https://youtu.be/cwFXc5d6sXY)[RedTeam Phase2 Service Account](https://youtu.be/7Le44AFAtGc)
 * [2018-09-27](https://www.meetup.com/OWASP-Bristol/events/254049195/): "Sharpen your Cyber SKills - CTF Event"
-* [2018-06-14](https://www.meetup.com/OWASP-Bristol/events/247968102/): Slides: [Red Team Tactics against a Windows network](https://github.com/OWASP/www-chapter-bristol-uk/blob/master/assets/slides/2018/OWASPBristol-Red_Team_OWASP.pdf) [video](https://www.youtube.com/watch?v=s-UcuRtD4_8)
-* [2018-04-19](https://www.meetup.com/OWASP-Bristol/events/245738650/): Slides: [Application hacking through the eyes of an attacker](https://github.com/OWASP/www-chapter-bristol-uk/blob/master/assets/slides/2018/Application-Hacking-Though-The-Eyes-Of-An-Attacker.pdf) /  [Exploiting unknown browsers and objects ](https://github.com/OWASP/www-chapter-bristol-uk/blob/master/assets/slides/2018/Exploiting_Unknown_browsers.pdf) 
-* [2018-02-15](https://www.meetup.com/OWASP-Bristol/events/245738659/): Slides: [Practical Password Cracking](https://www.owasp.org/images/e/e0/OWASPBristol-2018-02-19-practical-password-cracking.pdf ) / [Blockchain Security](https://www.owasp.org/images/8/89/OWASPBristol-2018-02-19-Blockchain-Security.pptx)
+* [2018-06-14](https://www.meetup.com/OWASP-Bristol/events/247968102/): 
+    * Slides: [Red Team Tactics against a Windows network](https://github.com/OWASP/www-chapter-bristol-uk/blob/master/assets/slides/2018/OWASPBristol-Red_Team_OWASP.pdf) [video](https://www.youtube.com/watch?v=s-UcuRtD4_8)
+* [2018-04-19](https://www.meetup.com/OWASP-Bristol/events/245738650/): 
+    * Talk 1: [Application hacking through the eyes of an attacker](https://github.com/OWASP/www-chapter-bristol-uk/blob/master/assets/slides/2018/Application-Hacking-Though-The-Eyes-Of-An-Attacker.pdf) 
+    * Talk 2: [Exploiting unknown browsers and objects](https://github.com/OWASP/www-chapter-bristol-uk/blob/master/assets/slides/2018/Exploiting_Unknown_browsers.pdf) 
+* [2018-02-15](https://www.meetup.com/OWASP-Bristol/events/245738659/): 
+    * Talk 1: [Practical Password Cracking](https://www.owasp.org/images/e/e0/OWASPBristol-2018-02-19-practical-password-cracking.pdf) 
+    * Talk 2: [Blockchain Security](https://www.owasp.org/images/8/89/OWASPBristol-2018-02-19-Blockchain-Security.pptx)
 
 #### 2017
 * [2017-11-30](https://www.meetup.com/OWASP-Bristol/events/244761832/): "Three Ways of Security” and Cookie Security - Myths and Misconceptions"
