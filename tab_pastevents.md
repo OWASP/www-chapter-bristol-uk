@@ -7,7 +7,7 @@ order: 1
 tags: bristol-tag
 ---
 
-For the next scheduled events, pleave vitis the [Meetup](https://www.meetup.com/owasp-bristol/) page. 
+For the next scheduled events, pleave visit the [Meetup](https://www.meetup.com/owasp-bristol/) page. 
 
 
 ## Past Events  
