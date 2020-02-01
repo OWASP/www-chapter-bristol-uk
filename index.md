@@ -14,8 +14,8 @@ The OWASP Bristol Chapter  is  run by [Katy Anton](mailto:katy.anton@owasp.org) 
 We are  a bunch of friendly people interested in Application Security, and as Software is all over these days, means we are interested in every flavour of security. 
 
 ## Social media
-* Our meetings are schduled on [Meetup](https://www.meetup.com/OWASP-Bristol/) 
-* Chapter meetings promotions is primarily done on [Twitter](https://twitter.com/OWASPBristol)
+* Our meetings are scheduled on [Meetup](https://www.meetup.com/OWASP-Bristol/) 
+* Chapter meetings promotion is primarily done on [Twitter](https://twitter.com/OWASPBristol)
 
 ## Speaking at OWASP Bristol Chapter Events
 Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP Bristol Chapter events - please review and agree with the OWASP Speaker Agreement and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via e-mail: [Katy Anton](mailto:katy.anton@owasp.org) 
