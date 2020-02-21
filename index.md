@@ -18,7 +18,7 @@ We are  a bunch of friendly people interested in Application Security, and as So
 * Chapter meetings promotion is primarily done on [Twitter](https://twitter.com/OWASPBristol)
 
 ## Speaking at OWASP Bristol Chapter Events
-Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP Bristol Chapter events - please review and agree with the OWASP Speaker Agreement and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via e-mail: [Katy Anton](mailto:katy.anton@owasp.org) and [Craig Francis](mailto:craig.francis@owasp.org) .
+Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP Bristol Chapter events - please review and agree with the OWASP Speaker Agreement and send the proposed talk title, abstract and speaker bio to: [Katy Anton](mailto:katy.anton@owasp.org).
 
 ## Chapter Meetings
 Please see the [Meetup](https://www.meetup.com/owasp-bristol/) page for schedule and to register for meetings. 
