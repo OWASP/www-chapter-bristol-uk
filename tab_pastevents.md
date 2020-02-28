@@ -12,8 +12,16 @@ For the next scheduled events, pleave visit the [Meetup](https://www.meetup.com/
 
 ## Past Events  
 Below is a list of the previous events details 
+
+### 2020
+* [2020-02-27](https://www.meetup.com/OWASP-Bristol/events/268319030/):
+    1. Damage Limitation, Craig Francis - [slides](https://github.com/OWASP/www-chapter-bristol-uk/tree/master/assets/slides/2020/02-27-Damage-Limitation.pdf).
+    2. Kerberos Authentication, Sadi Zane.
+
 ### 2019
 * [2019-11-14](https://www.meetup.com/OWASP-Bristol/events/261525682/): "Containers and Threat Modelling"
+    1. Least-privilege principle of container security, Ben Meier - [video](https://www.facebook.com/OWASPBristolChapter/videos/273762846884042/).
+    2. OWASP Threat Dragon: Cupcake to the rescue, Jon Gadsden - [video](https://www.facebook.com/OWASPBristolChapter/videos/652333085173880/).
 * [2019-09-12](https://www.meetup.com/OWASP-Bristol/events/261525677/): "Finding Security Vulnerabilities"
 * [2019-07-07](https://www.meetup.com/OWASP-Bristol/events/260281462/): "Internet Stalking and Exploits with Scratch"
 * [2019-06-06](https://www.meetup.com/OWASP-Bristol/events/261458168/): "HiTag2 Crypto"
