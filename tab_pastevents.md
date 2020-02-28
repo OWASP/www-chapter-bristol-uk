@@ -15,8 +15,8 @@ Below is a list of the previous events details
 
 ### 2020
 * [2020-02-27](https://www.meetup.com/OWASP-Bristol/events/268319030/):
-    1. Damage Limitation, Craig Francis - [slides](https://github.com/OWASP/www-chapter-bristol-uk/tree/master/assets/slides/2020/02-27-Damage-Limitation.pdf).
-    2. Kerberos Authentication, Sadi Zane.
+    1. Damage Limitation, Craig Francis - [video](https://www.facebook.com/owaspBristol/videos/vb.100023289937843/639771026809223/), [slides](https://github.com/OWASP/www-chapter-bristol-uk/tree/master/assets/slides/2020/02-27-Damage-Limitation.pdf).
+    2. Kerberos Authentication, Sadi Zane - [video](https://www.facebook.com/owaspBristol/videos/vb.100023289937843/639829846803341/).
 
 ### 2019
 * [2019-11-14](https://www.meetup.com/OWASP-Bristol/events/261525682/): "Containers and Threat Modelling"
