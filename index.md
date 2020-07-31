@@ -4,6 +4,9 @@ layout: col-sidebar
 title: OWASP Bristol, UK
 tags: bristol-tag
 region: Europe
+meetup-group: OWASP-Bristol
+country: United Kingdom
+postal-code: 
 
 ---
 
