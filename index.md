@@ -29,7 +29,7 @@ bio to the Chapter Leaders via e-mail: [Katy Anton](mailto:katy.anton@owasp.org)
 ## Chapter Meetings
 Please see the [Meetup](https://www.meetup.com/owasp-bristol/) page for schedule and to register for meetings. 
 
-## Meeting Sponsors
+## Meeting Supporters
 Here is the list of organisations who have generously provided us with space for our OWASP Bristol chapter meetings:
 
 <table cellpadding="10" cellspacing="0" border="0">
