@@ -10,6 +10,7 @@
 ### Social Links
 * [Meetup](https://www.meetup.com/OWASP-Bristol/)
 * [Twitter](https://twitter.com/OWASPBristol)
+* [YouTube Bristol](https://www.youtube.com/channel/UCKf2g3J9CC59ZCRVnnxtHCA)
 
 ### Code Repository
 * [Page Repo](https://github.com/OWASP/www-chapter-bristol-uk)
