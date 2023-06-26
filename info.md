@@ -1,15 +1,14 @@
 
 ### OWASP Information
 * [Become a Member](https://www.owasp.org/index.php/Membership)
-* [Local Chapter Support](https://www.owasp.org/index.php/Local_Chapter_Supporter)
-* [Chapter Leader Handbook](https://www.owasp.org/index.php/Chapter_Leader_Handbook)
-* [Speaker Agreement](https://www.owasp.org/index.php/Speaker_Agreement)
-* [Code of Conduct](https://www.owasp.org/index.php/Governance/Conference_Policies)
-
+* [Chapter Policy](https://owasp.org/www-policy/)
+* [Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement)
+* [Code of Conduct](https://owasp.org/www-policy/operational/code-of-conduct)
 
 ### Social Links
 * [Meetup](https://www.meetup.com/OWASP-Bristol/)
 * [Twitter](https://twitter.com/OWASPBristol)
+* [YouTube Bristol](https://www.youtube.com/channel/UC1lUjD1zM1gD2JkSa1rxMYQ)
 
 ### Code Repository
 * [Page Repo](https://github.com/OWASP/www-chapter-bristol-uk)
