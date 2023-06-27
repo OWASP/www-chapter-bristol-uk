@@ -12,6 +12,6 @@
 
 ### Code Repository
 * [Page Repo](https://github.com/OWASP/www-chapter-bristol-uk)
-* [Slides Repo](https://github.com/OWASP/www-chapter-london/tree/master/assets/slides)
+* [Slides Repo](https://github.com/OWASP/www-chapter-bristol-uk/tree/main/assets/slides)
 
 
