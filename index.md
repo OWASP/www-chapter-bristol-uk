@@ -12,10 +12,10 @@ postal-code:
 
 # Welcome to OWASP Bristol Chapter 
 
-The OWASP Bristol Chapter  is  run by [Katy Anton](mailto:katy.anton@owasp.org) and [Craig Francis](mailto:craig.francis@owasp.org) .
+The OWASP Bristol Chapter is run by [Katy Anton][katy], [Craig Francis][craig] and [Jon Gadsden][jon].
 
-We are  a bunch of friendly people interested in Application Security, and as Software is all over these days, means we
-are interested in every flavour of security. 
+We are  a bunch of friendly people interested in Application Security,
+and as Software is all over these days this means we are interested in every flavour of security.
 
 ## Social media
 * Our meetings are scheduled on [Meetup](https://www.meetup.com/OWASP-Bristol/) 
@@ -69,4 +69,8 @@ Here is the list of organisations who have generously provided us with space for
 </td>
 </tr>
 </table>
+
+[katy]: mailto:katy.anton@owasp.org
+[craig]: mailto:craig.francis@owasp.org
+[jon]: mailto:jon.gadsden@owasp.org
 

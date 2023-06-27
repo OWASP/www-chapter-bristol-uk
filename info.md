@@ -5,7 +5,7 @@
 * [Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement)
 * [Code of Conduct](https://owasp.org/www-policy/operational/code-of-conduct)
 
-### Social Links
+### Contact Links
 * [Meetup](https://www.meetup.com/OWASP-Bristol/)
 * [Twitter](https://twitter.com/OWASPBristol)
 * [YouTube Bristol](https://www.youtube.com/channel/UC1lUjD1zM1gD2JkSa1rxMYQ)
