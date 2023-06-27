@@ -20,6 +20,8 @@ are interested in every flavour of security.
 ## Social media
 * Our meetings are scheduled on [Meetup](https://www.meetup.com/OWASP-Bristol/) 
 * Chapter meetings promotion is primarily done on [Twitter](https://twitter.com/OWASPBristol)
+* We post videos of our meetings on our [YouTube Bristol channel](https://www.youtube.com/@OWASPBristol/featured)
+* Discussions and questions are welcome on our chapter [OWASP slack channel](https://owasp.slack.com/messages/CTRQ33DMK)
 
 ## Speaking at OWASP Bristol Chapter Events
 Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP Bristol Chapter
