@@ -10,7 +10,7 @@ postal-code:
 
 ---
 
-# Welcome to OWASP Bristol Chapter 
+## Welcome to OWASP Bristol Chapter
 
 The OWASP Bristol Chapter is run by [Katy Anton][katy], [Craig Francis][craig] and [Jon Gadsden][jon].
 
@@ -18,10 +18,14 @@ We are  a bunch of friendly people interested in Application Security,
 and as Software is all over these days this means we are interested in every flavour of security.
 
 ## Social media
-* Our meetings are scheduled on [Meetup](https://www.meetup.com/OWASP-Bristol/) 
+
+* Our meetings are scheduled on [Meetup](https://www.meetup.com/OWASP-Bristol/)
 * Chapter meetings promotion is primarily done on [Twitter](https://twitter.com/OWASPBristol)
+* We post videos of our meetings on our [YouTube Bristol channel](https://www.youtube.com/@OWASPBristol/featured)
+* Discussions and questions are welcome on our chapter [OWASP slack channel](https://owasp.slack.com/messages/CTRQ33DMK)
 
 ## Speaking at OWASP Bristol Chapter Events
+
 Call For Speakers is open - if you would like to present a talk on Application Security
 at future OWASP Bristol Chapter events - please review and agree with
 the OWASP [Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement)
@@ -35,14 +39,17 @@ All types of talks and presentations are welcome, such as:
 * Wider ranging presentation or tutorials up to an hour long
 
 ## Chapter Meetings
+
 Please see the [Meetup](https://www.meetup.com/owasp-bristol/) page for the schedule
 and to register for meetings.
 Typically our meetings are held in the evening and last for a couple of hours.
 
 ### Check our Upcoming Meetup Events
+
 {% include chapter_events.html group=page.meetup-group %}
 
 ## Meeting Supporters
+
 Here is the list of organisations who have generously provided us with space for our OWASP Bristol chapter meetings:
 
 <table cellpadding="10" cellspacing="0" border="0">
@@ -73,4 +80,3 @@ Here is the list of organisations who have generously provided us with space for
 [katy]: mailto:katy.anton@owasp.org
 [craig]: mailto:craig.francis@owasp.org
 [jon]: mailto:jon.gadsden@owasp.org
-
