@@ -6,7 +6,7 @@
 * [Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement)
 * [Code of Conduct](https://owasp.org/www-policy/operational/code-of-conduct)
 
-### Social Links
+### Contact Links
 
 * [Meetup](https://www.meetup.com/OWASP-Bristol/)
 * [Twitter](https://twitter.com/OWASPBristol)
@@ -15,4 +15,4 @@
 ### Code Repository
 
 * [Page Repo](https://github.com/OWASP/www-chapter-bristol-uk)
-* [Slides Repo](https://github.com/OWASP/www-chapter-london/tree/master/assets/slides)
+* [Slides Repo](https://github.com/OWASP/www-chapter-bristol-uk/tree/main/assets/slides)
