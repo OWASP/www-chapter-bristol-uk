@@ -8,8 +8,9 @@
 
 ### Contact Links
 
-* [Meetup](https://www.meetup.com/OWASP-Bristol/)
-* [Twitter](https://twitter.com/OWASPBristol)
+* [Meetup](https://www.meetup.com/owasp-bristol/)
+* [Slack](https://owasp.slack.com/messages/CTRQ33DMK)
+* [Twitter](https://twitter.com/owaspbristol/)
 * [YouTube Bristol](https://www.youtube.com/channel/UC1lUjD1zM1gD2JkSa1rxMYQ)
 
 ### Code Repository
