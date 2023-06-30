@@ -19,8 +19,8 @@ and as Software is all over these days this means we are interested in every fla
 
 ## Social media
 
-* Our meetings are scheduled on [Meetup](https://www.meetup.com/OWASP-Bristol/)
-* Chapter meetings promotion is primarily done on [Twitter](https://twitter.com/OWASPBristol)
+* Our meetings are scheduled on [Meetup](https://www.meetup.com/owasp-bristol/)
+* Chapter meetings promotion is primarily done on [Twitter](https://twitter.com/owaspbristol/)
 * We post videos of our meetings on our [YouTube Bristol channel](https://www.youtube.com/@OWASPBristol/featured)
 * Discussions and questions are welcome on our chapter [OWASP slack channel](https://owasp.slack.com/messages/CTRQ33DMK)
 
