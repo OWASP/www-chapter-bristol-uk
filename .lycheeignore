@@ -1,2 +1,5 @@
 # ignore these false positives from the link checker housekeeper
 
+# twitter needs a login so ignore it
+https://twitter.com/
+
