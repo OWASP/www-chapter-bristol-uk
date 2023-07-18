@@ -6,7 +6,7 @@ tags: bristol-tag
 region: Europe
 meetup-group: OWASP-Bristol
 country: United Kingdom
-postal-code: 
+postal-code:
 
 ---
 
@@ -52,30 +52,14 @@ Typically our meetings are held in the evening and last for a couple of hours.
 
 Here is the list of organisations who have generously provided us with space for our OWASP Bristol chapter meetings:
 
-<table cellpadding="10" cellspacing="0" border="0">
-<tr>
-<td>
-<img src="assets/images/ImmersiveLabsLogo.png" alt="ImmersiveLabsLogo"/>
-</td>
-<td>
-<img src="assets/images/RBSLogo.png" alt="RBSLogo"/>
-</td>
-<td>
-<img src="assets/images/GreshamTechnologiesLogo.png" alt="GreshamTechnologiesLogo"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="assets/images/ForgeRockLogo.png" alt="ForgeRockLogo"/>
-</td>
-<td>
-<img src="assets/images/JustEatLogo.png" alt="JustEatLogo"/>
-</td>
-<td>
-<img src="assets/images/OvoLogo.png" alt="OvoLogo"/>
-</td>
-</tr>
-</table>
+<ul>
+	<li><img src="assets/images/ImmersiveLabsLogo.png" alt="ImmersiveLabs" /></li>
+	<li><img src="assets/images/RBSLogo.png" alt="RBS" /></li>
+	<li><img src="assets/images/GreshamTechnologiesLogo.png" alt="GreshamTechnologies" /></li>
+	<li><img src="assets/images/ForgeRockLogo.png" alt="ForgeRock" /></li>
+	<li><img src="assets/images/JustEatLogo.png" alt="JustEat" /></li>
+	<li><img src="assets/images/OvoLogo.png" alt="Ovo" /></li>
+</ul>
 
 [katy]: mailto:katy.anton@owasp.org
 [craig]: mailto:craig.francis@owasp.org
