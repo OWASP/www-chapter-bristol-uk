@@ -54,16 +54,23 @@ Here is the list of organisations who have generously provided us with space for
 
 <style>
 	#supporters {
-		display: flex;
 		list-style: none;
 		margin: 0;
+		padding: 2em 0 0 2em;
+		background: #EEE;
+		display: flex;
 		flex-wrap: wrap;
-		gap: 2em;
-		padding: 0;
+	}
+	#supporters li {
+		width: calc(33.3% - 2em);
+		margin: 0 2em 2em 0;
+	}
+	#supporters li img {
+		width: 100%;
 	}
 </style>
 
-<ul id="supporters" style="background: #CCC;">
+<ul id="supporters">
 	<li><img src="assets/images/ImmersiveLabsLogo.png" alt="ImmersiveLabs" /></li>
 	<li><img src="assets/images/RBSLogo.png" alt="RBS" /></li>
 	<li><img src="assets/images/GreshamTechnologiesLogo.png" alt="GreshamTechnologies" /></li>
