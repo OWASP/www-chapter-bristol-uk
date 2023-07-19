@@ -52,7 +52,18 @@ Typically our meetings are held in the evening and last for a couple of hours.
 
 Here is the list of organisations who have generously provided us with space for our OWASP Bristol chapter meetings:
 
-<ul>
+<style>
+	#supporters {
+		display: flex;
+		list-style: none;
+		margin: 0;
+		flex-wrap: wrap;
+		gap: 2em;
+		padding: 0;
+	}
+</style>
+
+<ul id="supporters" style="background: #CCC;">
 	<li><img src="assets/images/ImmersiveLabsLogo.png" alt="ImmersiveLabs" /></li>
 	<li><img src="assets/images/RBSLogo.png" alt="RBS" /></li>
 	<li><img src="assets/images/GreshamTechnologiesLogo.png" alt="GreshamTechnologies" /></li>
