@@ -16,7 +16,7 @@ Below is a list of the previous events details
 ### 2023
 
 * [2023-11-28](https://www.meetup.com/owasp-bristol/events/296990209/):
-  * Talk: Integrating Threat Modeling into the SDLC, Rob Fewster - [slides](https://github.com/OWASP/www-chapter-bristol-uk/tree/main/assets/slides/2023/11-28-integrating-threat-modeling.pdf)
+  * Talk: Integrating Threat Modeling into the SDLC, Rob Fewster - [video](https://www.youtube.com/watch?v=PCChGP_jCWk) [slides](https://github.com/OWASP/www-chapter-bristol-uk/tree/main/assets/slides/2023/11-28-integrating-threat-modeling.pdf)
 * [2023-10-17](https://www.meetup.com/owasp-bristol/events/295904341/):
   * Talk 1: Secure by Design and by Default, Chris Goff - [video](https://www.youtube.com/watch?v=GJXanytb92E)
   * Talk 2: Exploring Security, Dan Billing - [video](https://www.youtube.com/watch?v=s2TfuApv3s4&t=408s)
