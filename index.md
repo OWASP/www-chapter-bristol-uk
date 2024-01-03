@@ -14,13 +14,12 @@ postal-code:
 
 The OWASP Bristol Chapter is run by [Katy Anton][katy], [Craig Francis][craig] and [Jon Gadsden][jon].
 
-We are  a bunch of friendly people interested in Application Security,
-and as Software is all over these days this means we are interested in every flavour of security.
+We are  a bunch of friendly people interested in Application Security, and we are interested in every flavour of security.
 
 ## Social media
 
 * Our meetings are scheduled on [Meetup](https://www.meetup.com/owasp-bristol/)
-* Chapter meetings promotion is primarily done on [Twitter](https://twitter.com/owaspbristol/)
+* Chapter meetings promotion is primarily done on [X/Twitter](https://twitter.com/owaspbristol/)
 * We post videos of our meetings on our [YouTube Bristol channel](https://www.youtube.com/@OWASPBristol/featured)
 * Discussions and questions are welcome on our chapter [OWASP slack channel](https://owasp.slack.com/messages/CTRQ33DMK)
 
@@ -74,7 +73,6 @@ Here is the list of organisations who have generously provided us with space for
 	<li><img src="assets/images/ImmersiveLabsLogo.png" alt="ImmersiveLabs" /></li>
 	<li><img src="assets/images/RBSLogo.png" alt="RBS" /></li>
 	<li><img src="assets/images/GreshamTechnologiesLogo.png" alt="GreshamTechnologies" /></li>
-	<li><img src="assets/images/ForgeRockLogo.png" alt="ForgeRock" /></li>
 	<li><img src="assets/images/JustEatLogo.png" alt="JustEat" /></li>
 	<li><img src="assets/images/OvoLogo.png" alt="Ovo" /></li>
 </ul>
