@@ -75,6 +75,7 @@ Here is the list of organisations who have generously provided us with space for
 	<li><img src="assets/images/GreshamTechnologiesLogo.png" alt="GreshamTechnologies" /></li>
 	<li><img src="assets/images/JustEatLogo.png" alt="JustEat" /></li>
 	<li><img src="assets/images/OvoLogo.png" alt="Ovo" /></li>
+	<li><img src="assets/images/HLLogo.png" alt="HargreavesLansdown" /></li>
 </ul>
 
 [katy]: mailto:katy.anton@owasp.org
