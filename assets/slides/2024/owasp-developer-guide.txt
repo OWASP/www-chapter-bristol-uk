@@ -19,5 +19,5 @@ The Developer Guide was literally the first document produced by OWASP way back 
 it predates even the OWASP Top 10.
 With the last version of the Developer Guide published in 2005 it was definitely time for a reboot,
 and OWASP decided that a Developer Guide is needed now more than ever.
-The talk will introduce the various sections of the Developer Guide
+This short talk will introduce the various sections of the Developer Guide
 and explain how they can help a development team in their day to day activities
