@@ -1,18 +1,18 @@
 Biography:
-Jon is a software security engineer with Ping Identity,
-a company that provides Identity and Access Management services.
-He is also a Co-Leader for the OWASP chapter in Bristol.
+Jon has been involved with the open source software community since Linux 2.0.28
+and is a contributor and co-leader for the OWASP Developer Guide
+as well as a leader on the OWASP Threat Dragon project.
+He is also a co-leader for the OWASP chapter in Bristol
+and enjoys helping to organize their chapter meetings.
 Jon splits his time between security engineering and software development;
-he says that he likes it this way because it reminds him that developers are always
-under time pressure and that product security engineers require a whole load of tact.
-Jon has been involved with the open source software community since Linux 2.0.28,
-and he is a leader of the OWASP Threat Dragon project and also the OWASP Developer Guide.
+he says that he likes it this way because it reminds him both that developers are always under time pressure
+and also that application security engineers require a whole load of tact.
 
 Abstract:
 Contributing to OWASP projects
 Ever wanted to contribute to the opern source community but didn't know how to start?
 Ever had a good idea for an open source project but doubted yourself?
-This lightning talk is aimed at all of us who would like to contribute but don't,
+This lightning talk is aimed at all of us who would like to contribute but don't yet,
 or those who do and want to share their experiences.
 This short talk seeks to demystify contributing to open source and share the experience
-of thousands of contributions to many open source projects.
+of (literally thousands of contributions to several open source projects.

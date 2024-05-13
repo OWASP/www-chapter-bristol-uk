@@ -1,19 +1,19 @@
 Biography:
-Jon is a software security engineer with Ping Identity,
-a company that provides Identity and Access Management services.
-He is also a Co-Leader for the OWASP chapter in Bristol.
+Jon has been involved with the open source software community since Linux 2.0.28
+and is a contributor and co-leader for the OWASP Developer Guide
+as well as a leader on the OWASP Threat Dragon project.
+He is also a co-leader for the OWASP chapter in Bristol
+and enjoys helping to organize their chapter meetings.
 Jon splits his time between security engineering and software development;
-he says that he likes it this way because it reminds him that developers are always
-under time pressure and that product security engineers require a whole load of tact.
-Jon has been involved with the open source software community since Linux 2.0.28,
-and he is a leader of the OWASP Threat Dragon project and also the OWASP Developer Guide.
+he says that he likes it this way because it reminds him both that developers are always under time pressure
+and also that application security engineers require a whole load of tact.
 
 Abstract:
 OWASP Developer Guide rebooted
 If you have ever asked yourself the question:
 “I am a developer and I need a reference source to navigate the numerous projects
-and describe the security activities I really should be doing”
-then this talk is for you, along with anybody else who is interested in product security.
+and security activities that I really should be doing”
+then this talk is for you, along with anybody else who is interested in applicatio security.
 
 The Developer Guide was literally the first document produced by OWASP way back in 2002;
 it predates even the OWASP Top 10.
