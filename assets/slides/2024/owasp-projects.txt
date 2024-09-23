@@ -13,6 +13,6 @@ Contributing to OWASP projects
 Ever wanted to contribute to the opern source community but didn't know how to start?
 Ever had a good idea for an open source project but doubted yourself?
 This lightning talk is aimed at all of us who would like to contribute but don't yet,
-or those who do and want to share their experiences.
-This short talk seeks to demystify contributing to open source and share the experience
-of (literally thousands of contributions to several open source projects.
+or those who do and want to share experiences.
+This short talk seeks to demystify contributing to open source and share experience
+of (literally) thousands of contributions to several open source projects.
