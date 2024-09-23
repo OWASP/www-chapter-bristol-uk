@@ -7,11 +7,21 @@ order: 1
 tags: bristol-tag
 ---
 
-For the next scheduled events, pleave visit the [Meetup](https://www.meetup.com/owasp-bristol/) page.
+For the next scheduled events, please visit the [Meetup](https://www.meetup.com/owasp-bristol/) page.
 
 ## Past Events
 
 Below is a list of the previous events details
+
+### 2024
+
+* [2024-5-21](https://www.meetup.com/owasp-bristol/events/300831085/):
+  * Workshop: Interactive cyber crisis simulation,
+    hosted by James Riley and Chris Wood at the [Immersive Labs](https://www.immersivelabs.com/) Bristol office
+
+* [2024-3-5](https://www.meetup.com/owasp-bristol/events/299254390/):
+  * Talk: OWASP Threat Dragon, Jon Gadsden - [slides](https://github.com/OWASP/www-chapter-bristol-uk/tree/main/assets/slides/2024/3-5-owasp-threat-dragon.pdf)
+  * Discussion: The Effects of our Decisions, led by Craig Francis
 
 ### 2023
 
