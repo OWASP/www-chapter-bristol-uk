@@ -1,17 +1,22 @@
 ---
-title: PastEvents
-displaytext: Past Events
+title: Events
+displaytext: Events
 layout:  null
 tab: true
 order: 1
+meetup-group: owasp-bristol
 tags: bristol-tag
 ---
 
-For the next scheduled events, please visit the [Meetup](https://www.meetup.com/owasp-bristol/) page.
+## Scheduled events
 
-## Past Events
+. {% include chapter_events.html group=page.meetup-group %}
 
-Below is a list of the previous events details
+To register for these events, please visit the [Meetup](https://www.meetup.com/owasp-bristol/) page.
+
+## Past events
+
+A list of our previous events and presentation, and occasionally videos.
 
 ### 2024
 
