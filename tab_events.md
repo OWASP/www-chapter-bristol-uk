@@ -14,6 +14,8 @@ To register for this event, please visit our [Meetup](https://www.meetup.com/owa
 
 {% include chapter_events.html group=page.meetup-group %}
 
+----
+
 ## Past events
 
 A list of our previous events and presentation, and occasionally videos.

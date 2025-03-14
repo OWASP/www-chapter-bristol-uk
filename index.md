@@ -16,12 +16,11 @@ The OWASP Bristol Chapter is run by [Katy Anton][katy], [Craig Francis][craig] a
 
 We are  a bunch of friendly people interested in Application Security, and we are interested in every flavour of security.
 
-## Social media
+### Social media
 
 * Our meetings are scheduled on [Meetup](https://www.meetup.com/owasp-bristol/)
-* Chapter meetings promotion is primarily done on [X/Twitter](https://twitter.com/owaspbristol/)
-* We post videos of our meetings on our [YouTube Bristol channel](https://www.youtube.com/@OWASPBristol/featured)
-* Discussions and questions are welcome on our chapter [OWASP slack channel](https://owasp.slack.com/messages/CTRQ33DMK)
+* We post videos of some of the  meetings on our [YouTube Bristol](https://www.youtube.com/@OWASPBristol/featured) channel
+* Discussions and questions are welcome on our chapter [OWASP slack](https://owasp.slack.com/messages/CTRQ33DMK) channel
 
 ## Chapter Meetings
 
@@ -30,7 +29,7 @@ View the meeting schedule on our [events page](https://owasp.org/www-project-thr
 
 To register for an event, please visit our [Meetup](https://www.meetup.com/owasp-bristol/) page.
 
-## Speaking at OWASP Bristol Chapter Events
+### Speaking at OWASP Bristol Chapter Events
 
 Call For Speakers is open - if you would like to present a talk on Application Security
 at future OWASP Bristol Chapter events - please review and agree with
@@ -44,7 +43,7 @@ All types of talks and presentations are welcome, such as:
 * Longer talks between 30 and 45 minutes
 * Wider ranging presentation or tutorials up to an hour long
 
-## Meeting Supporters
+### Meeting Supporters
 
 Here is the list of organisations who have generously provided us with space for our OWASP Bristol chapter meetings:
 
