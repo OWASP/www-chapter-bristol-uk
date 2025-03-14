@@ -10,9 +10,9 @@ tags: bristol-tag
 
 ## Scheduled events
 
-. {% include chapter_events.html group=page.meetup-group %}
+To register for this event, please visit our [Meetup](https://www.meetup.com/owasp-bristol/) page.
 
-To register for these events, please visit the [Meetup](https://www.meetup.com/owasp-bristol/) page.
+{% include chapter_events.html group=page.meetup-group %}
 
 ## Past events
 

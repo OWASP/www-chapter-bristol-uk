@@ -23,6 +23,13 @@ We are  a bunch of friendly people interested in Application Security, and we ar
 * We post videos of our meetings on our [YouTube Bristol channel](https://www.youtube.com/@OWASPBristol/featured)
 * Discussions and questions are welcome on our chapter [OWASP slack channel](https://owasp.slack.com/messages/CTRQ33DMK)
 
+## Chapter Meetings
+
+Typically our meetings are held in the evening and last for a couple of hours.
+View the meeting schedule on our [events page](https://owasp.org/www-project-threat-dragon/#div-events).
+
+To register for an event, please visit our [Meetup](https://www.meetup.com/owasp-bristol/) page.
+
 ## Speaking at OWASP Bristol Chapter Events
 
 Call For Speakers is open - if you would like to present a talk on Application Security
@@ -36,16 +43,6 @@ All types of talks and presentations are welcome, such as:
 * Short / lightning talks, approximately 10 minutes on a specific subject
 * Longer talks between 30 and 45 minutes
 * Wider ranging presentation or tutorials up to an hour long
-
-## Chapter Meetings
-
-Please see the [Meetup](https://www.meetup.com/owasp-bristol/) page for the schedule
-and to register for meetings.
-Typically our meetings are held in the evening and last for a couple of hours.
-
-### Check our Upcoming Meetup Events
-
-{% include chapter_events.html group=page.meetup-group %}
 
 ## Meeting Supporters
 
