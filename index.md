@@ -25,7 +25,7 @@ We are  a bunch of friendly people interested in Application Security, and we ar
 ## Chapter Meetings
 
 Typically our meetings are held in the evening and last for a couple of hours.
-View the meeting schedule on our [events page](https://owasp.org/www-project-threat-dragon/#div-events).
+View the meeting schedule on our [events page](https://owasp.org/www-chapter-bristol-uk/#div-events).
 
 To register for an event, please visit our [Meetup](https://www.meetup.com/owasp-bristol/) page.
 
