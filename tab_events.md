@@ -20,6 +20,13 @@ To register for this event, please visit our [Meetup](https://www.meetup.com/owa
 
 A list of our previous events and presentation, and occasionally videos.
 
+### 2025
+
+* [2025-3-25](https://www.meetup.com/owasp-bristol/events/306455341/):
+  * Introduction [slides](https://github.com/OWASP/www-chapter-bristol-uk/tree/main/assets/slides/2025/3-25-chapter.pdf)
+  * Talk: Ship Happens: The Stormy Seas of Supply Chain Security, David Archer
+  * Discussion: The human element of open source, led by [WiTCH][witch] (Women in Tech & Cyber Hub)
+
 ### 2024
 
 * [2024-5-21](https://www.meetup.com/owasp-bristol/events/300831085/):
@@ -122,3 +129,5 @@ A list of our previous events and presentation, and occasionally videos.
   * Talk 1: Devops & Continuous Delivery Security, Jason Alexander
   * Talk 2: Dip Your Toes in the Sea of Security, James Titcumb
 * 2015-07-02
+
+[witch]: https://www.witch.online/
