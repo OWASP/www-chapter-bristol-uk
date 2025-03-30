@@ -25,7 +25,7 @@ A list of our previous events and presentation, and occasionally videos.
 * [2025-3-25](https://www.meetup.com/owasp-bristol/events/306455341/):
   * Introduction [slides](https://github.com/OWASP/www-chapter-bristol-uk/tree/main/assets/slides/2025/3-25-chapter.pdf)
   * Talk: Ship Happens: The Stormy Seas of Supply Chain Security, David Archer
-  * Discussion: The human element of open source, led by [WiTCH][witch] (Women in Tech & Cyber Hub)
+  * Discussion: The human element of the supply chain, led by Illyana Mullins of [WiTCH][witch] (Women in Tech & Cyber Hub)
 
 ### 2024
 
