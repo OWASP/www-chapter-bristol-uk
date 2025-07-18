@@ -18,48 +18,63 @@ To register for this event, please visit our [Meetup](https://www.meetup.com/owa
 
 ## Past events
 
-A list of our previous events and presentation, and occasionally videos.
+A list of our previous events and presentations, and occasionally videos.
 
 ### 2025
 
+* [2025-7-15](https://www.meetup.com/owasp-bristol/events/308810349/):
+  * Talk: Implementing a bug bounty program, Ashley Dunn
+  * Talk: Don't tell Mum I joined up (she thinks I'm a bicycle repair man), David Greeney
 * [2025-3-25](https://www.meetup.com/owasp-bristol/events/306455341/):
   * Introduction [slides](https://github.com/OWASP/www-chapter-bristol-uk/tree/main/assets/slides/2025/3-25-chapter.pdf)
   * Talk: Ship Happens: The Stormy Seas of Supply Chain Security, David Archer
-  * Discussion: The human element of the supply chain, led by Illyana Mullins of [WiTCH][witch] (Women in Tech & Cyber Hub)
+  * Discussion: The human element of the supply chain,
+    led by Illyana Mullins of [WiTCH][witch] (Women in Tech & Cyber Hub)
 
 ### 2024
 
 * [2024-5-21](https://www.meetup.com/owasp-bristol/events/300831085/):
   * Workshop: Interactive cyber crisis simulation,
     hosted by James Riley and Chris Wood at the [Immersive Labs](https://www.immersivelabs.com/) Bristol office
-
 * [2024-3-5](https://www.meetup.com/owasp-bristol/events/299254390/):
-  * Talk: OWASP Threat Dragon, Jon Gadsden - [slides](https://github.com/OWASP/www-chapter-bristol-uk/tree/main/assets/slides/2024/3-5-owasp-threat-dragon.pdf)
+  * Talk: OWASP Threat Dragon, Jon Gadsden -
+    [slides](https://github.com/OWASP/www-chapter-bristol-uk/tree/main/assets/slides/2024/3-5-owasp-threat-dragon.pdf)
   * Discussion: The Effects of our Decisions, led by Craig Francis
 
 ### 2023
 
 * [2023-11-28](https://www.meetup.com/owasp-bristol/events/296990209/):
-  * Talk: Integrating Threat Modeling into the SDLC, Rob Fewster - [video](https://www.youtube.com/watch?v=PCChGP_jCWk) [slides](https://github.com/OWASP/www-chapter-bristol-uk/tree/main/assets/slides/2023/11-28-integrating-threat-modeling.pdf)
+  * Talk: Integrating Threat Modeling into the SDLC, Rob Fewster -
+    [video](https://www.youtube.com/watch?v=PCChGP_jCWk)
+    [slides](https://github.com/OWASP/www-chapter-bristol-uk/tree/main/assets/slides/2023/11-28-integrating-threat-modeling.pdf)
 * [2023-10-17](https://www.meetup.com/owasp-bristol/events/295904341/):
   * Talk 1: Secure by Design and by Default, Chris Goff - [video](https://www.youtube.com/watch?v=GJXanytb92E)
   * Talk 2: Exploring Security, Dan Billing - [video](https://www.youtube.com/watch?v=s2TfuApv3s4&t=408s)
-  * Update: ZAP and the Software Security Project, Jon Gadsden - [video](https://www.youtube.com/watch?v=s2TfuApv3s4) [slides](https://github.com/OWASP/www-chapter-bristol-uk/tree/main/assets/slides/2023/10-17-zap-ssp.pdf)
+  * Update: ZAP and the Software Security Project, Jon Gadsden -
+    [video](https://www.youtube.com/watch?v=s2TfuApv3s4)
+    [slides](https://github.com/OWASP/www-chapter-bristol-uk/tree/main/assets/slides/2023/10-17-zap-ssp.pdf)
 * [2023-06-15](https://www.meetup.com/owasp-bristol/events/290892060/):
   * Talk 1: LLM and Application Security, Chris Wood
-  * Talk 2: An Introduction to scripting for Application Testers, Alex Archondakis - [slides](https://github.com/OWASP/www-chapter-bristol-uk/tree/main/assets/slides/2023/06-15-Scripting.pdf)
+  * Talk 2: An Introduction to scripting for Application Testers, Alex Archondakis -
+    [slides](https://github.com/OWASP/www-chapter-bristol-uk/tree/main/assets/slides/2023/06-15-Scripting.pdf)
 
 ### 2020
 
 * [2020-02-27](https://www.meetup.com/owasp-bristol/events/268319030/):
-  * Talk 1: Damage Limitation, Craig Francis - [video](https://www.facebook.com/owaspBristol/videos/vb.100023289937843/639771026809223/), [slides](https://github.com/OWASP/www-chapter-bristol-uk/tree/main/assets/slides/2020/02-27-Damage-Limitation.pdf)
-  * Talk 2: Kerberos Authentication, Sadi Zane - [video](https://www.facebook.com/owaspBristol/videos/vb.100023289937843/639829846803341/)
+  * Talk 1: Damage Limitation, Craig Francis -
+    [video](https://www.facebook.com/owaspBristol/videos/vb.100023289937843/639771026809223/)
+    [slides](https://github.com/OWASP/www-chapter-bristol-uk/tree/main/assets/slides/2020/02-27-Damage-Limitation.pdf)
+  * Talk 2: Kerberos Authentication, Sadi Zane -
+    [video](https://www.facebook.com/owaspBristol/videos/vb.100023289937843/639829846803341/)
 
 ### 2019
 
 * [2019-11-14](https://www.meetup.com/owasp-bristol/events/261525682/):
-  * Talk 1: Least-privilege principle of container security, Ben Meier - [video](https://www.facebook.com/OWASPBristolChapter/videos/273762846884042/)
-  * Talk 2: OWASP Threat Dragon: Cupcake to the rescue, Jon Gadsden - [video](https://www.facebook.com/OWASPBristolChapter/videos/652333085173880/) [slides](https://github.com/OWASP/www-chapter-bristol-uk/blob/main/assets/slides/2019/11-14-threat-dragon.pdf)
+  * Talk 1: Least-privilege principle of container security, Ben Meier -
+    [video](https://www.facebook.com/OWASPBristolChapter/videos/273762846884042/)
+  * Talk 2: OWASP Threat Dragon: Cupcake to the rescue, Jon Gadsden -
+    [video](https://www.facebook.com/OWASPBristolChapter/videos/652333085173880/)
+    [slides](https://github.com/OWASP/www-chapter-bristol-uk/blob/main/assets/slides/2019/11-14-threat-dragon.pdf)
 * [2019-09-12](https://www.meetup.com/owasp-bristol/events/261525677/):
   * Talk 1: Hacking into Developers’ Security Consciousness, Andra Lezza
   * Talk 2: Stranger Danger: Finding Security Vulnerabilities Before They Find You!, Siobhan Meier
@@ -73,18 +88,27 @@ A list of our previous events and presentation, and occasionally videos.
 ### 2018
 
 * [2018-11-15](https://www.meetup.com/owasp-bristol/events/254049342/):
-  * Talk 1: Android app hacker’s toolbox, Iain Baughen - [slides](https://github.com/OWASP/www-chapter-bristol-uk/blob/main/assets/slides/2018/OWASP-Android-Hackers-Toolbox.pptx)
-  * Talk 2: Red Team Tactics part 2, Sadi Zane - [slides](https://github.com/OWASP/www-chapter-bristol-uk/blob/main/assets/slides/2018/OWASPBristol-Red-Team-15-11-2018.pdf) [Video: Kerberos Phase2](https://youtu.be/cwFXc5d6sXY)[RedTeam Phase2 Service Account](https://youtu.be/7Le44AFAtGc)
+  * Talk 1: Android app hacker’s toolbox, Iain Baughen -
+    [slides](https://github.com/OWASP/www-chapter-bristol-uk/blob/main/assets/slides/2018/OWASP-Android-Hackers-Toolbox.pptx)
+  * Talk 2: Red Team Tactics part 2, Sadi Zane -
+    [slides](https://github.com/OWASP/www-chapter-bristol-uk/blob/main/assets/slides/2018/OWASPBristol-Red-Team-15-11-2018.pdf)
+    [Video: Kerberos Phase2](https://youtu.be/cwFXc5d6sXY)[RedTeam Phase2 Service Account](https://youtu.be/7Le44AFAtGc)
 * [2018-09-27](https://www.meetup.com/owasp-bristol/events/254049195/):
   * Event: "Sharpen your Cyber SKills - CTF Event"
 * [2018-06-14](https://www.meetup.com/owasp-bristol/events/247968102/):
-  * Talk: Red Team Tactics against a Windows network, Sadi Zane - [slides](https://github.com/OWASP/www-chapter-bristol-uk/blob/main/assets/slides/2018/OWASPBristol-Red_Team.pdf) [video](https://www.youtube.com/watch?v=s-UcuRtD4_8)
+  * Talk: Red Team Tactics against a Windows network, Sadi Zane -
+    [slides](https://github.com/OWASP/www-chapter-bristol-uk/blob/main/assets/slides/2018/OWASPBristol-Red_Team.pdf)
+    [video](https://www.youtube.com/watch?v=s-UcuRtD4_8)
 * [2018-04-19](https://www.meetup.com/owasp-bristol/events/245738650/):
-  * Talk 1: Application hacking through the eyes of an attacker, Rob Hillier - [slides](https://github.com/OWASP/www-chapter-bristol-uk/blob/main/assets/slides/2018/Application-Hacking-Though-The-Eyes-Of-An-Attacker.pdf)
-  * Talk 2: Exploiting unknown browsers and objects, Gareth Heyes - [slides](https://github.com/OWASP/www-chapter-bristol-uk/blob/main/assets/slides/2018/Exploiting_Unknown_browsers.pdf)
+  * Talk 1: Application hacking through the eyes of an attacker, Rob Hillier -
+    [slides](https://github.com/OWASP/www-chapter-bristol-uk/blob/main/assets/slides/2018/Application-Hacking-Though-The-Eyes-Of-An-Attacker.pdf)
+  * Talk 2: Exploiting unknown browsers and objects, Gareth Heyes -
+    [slides](https://github.com/OWASP/www-chapter-bristol-uk/blob/main/assets/slides/2018/Exploiting_Unknown_browsers.pdf)
 * [2018-02-15](https://www.meetup.com/owasp-bristol/events/245738659/):
-  * Talk 1: Passwords cracking and countermeasure, Jamie Riden - [slides](https://www.owasp.org/images/e/e0/OWASPBristol-2018-02-19-practical-password-cracking.pdf)
-  * Talk 2: The security of Blockchain, Ramesh Krishnasagar - [slides](https://github.com/OWASP/www-chapter-bristol-uk/blob/main/assets/slides/2018/OWASPBristol-2018-02-19-Blockchain-Security.pptx)
+  * Talk 1: Passwords cracking and countermeasure, Jamie Riden -
+    [slides](https://www.owasp.org/images/e/e0/OWASPBristol-2018-02-19-practical-password-cracking.pdf)
+  * Talk 2: The security of Blockchain, Ramesh Krishnasagar -
+    [slides](https://github.com/OWASP/www-chapter-bristol-uk/blob/main/assets/slides/2018/OWASPBristol-2018-02-19-Blockchain-Security.pptx)
 
 ### 2017
 
@@ -96,7 +120,8 @@ A list of our previous events and presentation, and occasionally videos.
   * Talk 2: Modern Access Management, Jonathan Scudder
 * [2017-09-28](https://www.meetup.com/owasp-bristol/events/240114497/):
   * Talk 1: Website hacking, Craig Francis
-  * Talk 2: Threat Modeling, Jon Gadsden - [slides](https://github.com/OWASP/www-chapter-bristol-uk/blob/main/assets/slides/2017/09-28-threat-modeling.pdf)
+  * Talk 2: Threat Modeling, Jon Gadsden -
+    [slides](https://github.com/OWASP/www-chapter-bristol-uk/blob/main/assets/slides/2017/09-28-threat-modeling.pdf)
 * [2017-06-22](https://www.meetup.com/owasp-bristol/events/235736793/):
   * Talk 1: IoT, Ramesh Krishnasagar
   * Talk 2: Securing financial APIs, Dave Tonge
@@ -115,7 +140,7 @@ A list of our previous events and presentation, and occasionally videos.
   * Talk 1: OT is not IT, Vitor Jesus
   * Talk 2: Car hacking, Ken Munro
 * [2016-05-20](https://www.meetup.com/owasp-bristol/events/229465685/):
-  * Workshop: "Threat Modelling"
+  * Workshop: Threat Modelling
 * [2016-03-17](https://www.meetup.com/owasp-bristol/events/228380487/):
   * Talk 1: New Era of Software with modern Application Security, Dinis Cruz
   * Talk 2: Android app security on a shoestring budget, Scott Alexander-­Bown

@@ -17,3 +17,7 @@
 
 * [Page Repo](https://github.com/OWASP/www-chapter-bristol-uk)
 * [Slides Repo](https://github.com/OWASP/www-chapter-bristol-uk/tree/main/assets/slides)
+
+### Founding member
+
+* [Katy Anton](mailto:katy.anton@owasp.org)
