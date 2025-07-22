@@ -58,6 +58,18 @@ A list of our previous events and presentations, and occasionally videos.
   * Talk 2: An Introduction to scripting for Application Testers, Alex Archondakis -
     [slides](https://github.com/OWASP/www-chapter-bristol-uk/tree/main/assets/slides/2023/06-15-Scripting.pdf)
 
+### 2021 virtual meetings only
+
+* 2021-12-02
+  * Talk: Infrastructure as Code (IaC) Misconfigurations, Ori Bendet - [video](https://www.youtube.com/live/KKZJEJF6I0M)
+* 2021-06-24
+  * Talk: Enforcing Code Security Standards with Semgrep, Clint Gibler - [video](https://youtu.be/ypx6lAzqPEM)
+* 2021-06-22
+  * Talk: IoT Security - Importance, threats, best practice, Ilya Kudryavtsev - [video](https://youtu.be/OfUtkS-9p8Q)
+* 2021-03-18
+  * Introduction - [video](https://youtu.be/acAawjtFiu4)
+  * Discussion: `is_literal()`, Craig Francis - [video](https://youtu.be/iYC9QG6RTFU)
+
 ### 2020
 
 * [2020-02-27](https://www.meetup.com/owasp-bristol/events/268319030/):
