@@ -24,7 +24,7 @@ in promoting a more diverse software security community in the South West of Eng
 
 * Our meetings are scheduled on [Meetup][meetup]
 * We post videos of some of the  meetings on our [YouTube Bristol][youtube] channel
-* Discussions and questions are welcome on our chapter [OWASP slack](https://owasp.slack.com/messages/CTRQ33DMK) channel
+* Discussions and questions are welcome in our chapter [OWASP slack][slack] channel and [LinkedIn page][linkedin]
 
 ## Chapter Meetings
 
@@ -79,6 +79,8 @@ Here is the list of organisations who have generously provided us with space for
 
 [craig]: mailto:craig.francis@owasp.org
 [jon]: mailto:jon.gadsden@owasp.org
+[linkedin]: https://www.linkedin.com/groups/8409530/
 [meetup]: https://www.meetup.com/owasp-bristol/
+[slack]: https://owasp.slack.com/messages/CTRQ33DMK
 [witch]: https://www.witch.online/
 [youtube]: https://www.youtube.com/@OWASPBristol/featured
