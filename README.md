@@ -1,4 +1,4 @@
-# OWASP Bristol (England)
+# OWASP Bristol
 
 The OWASP home for the [Bristol (England) Chapter](https://owasp.org/www-chapter-bristol-uk/).
 

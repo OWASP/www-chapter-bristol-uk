@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Bristol, England
+title: OWASP Bristol
 tags: bristol-tag
 region: Europe
 meetup-group: OWASP-Bristol
@@ -13,12 +13,11 @@ postal-code:
 ## Welcome to OWASP Bristol Chapter
 
 The OWASP Bristol Chapter is run by [Craig Francis][craig] and [Jon Gadsden][jon].
-
-We are  a bunch of friendly people interested in application security,
-and we are interested in every flavour of security.
+We are  a bunch of friendly people interested in application security
+and we meet up four or five times a year to discuss a whole range of security topics.
 
 The Bristol Chapter is pleased to have the support of [WiTCH][witch] (Women in Tech & Cyber Hub)
-in promoting a more diverse software security community in the South West of England
+in promoting a more diverse software security community in the South West of England.
 
 ### Social media
 
@@ -29,9 +28,10 @@ in promoting a more diverse software security community in the South West of Eng
 ## Chapter Meetings
 
 Typically our meetings are held in the evening and last for a couple of hours.
-View the meeting schedule on the [events tab](https://owasp.org/www-chapter-bristol-uk/#div-events).
+View the schedule on the [events tab](https://owasp.org/www-chapter-bristol-uk/#div-events)
+for our next meeting and also for past meetings.
 
-To register for an event, please visit our [Meetup][meetup] page.
+To register for an event please visit our [Meetup][meetup] page.
 
 ### Speaking at OWASP Bristol Chapter Events
 
