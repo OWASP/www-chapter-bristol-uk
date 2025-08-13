@@ -1,6 +1,6 @@
 ---
 name: Create content
-about: Suggest content for the Bristol UK Chapter
+about: Suggest content for the Bristol Chapter
 title: 'Provide content'
 labels: 'content'
 assignees: ''

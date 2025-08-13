@@ -1,6 +1,6 @@
 ---
 name: Change request
-about: Suggest a change for the Bristol UK Chapter
+about: Suggest a change for the Bristol Chapter
 title: ''
 labels: 'enhancement'
 assignees: ''
