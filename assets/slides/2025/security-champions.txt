@@ -1,0 +1,20 @@
+Biography:
+Jon has been involved with the open source software community since Linux 2.0.28
+and is a contributor and co-leader for the OWASP Developer Guide
+as well as a leader on the OWASP Threat Dragon project.
+He is also a co-leader for the OWASP chapter in Bristol
+and enjoys helping to organize their chapter meetings.
+Jon splits his time between security engineering and software development;
+he says that he likes it this way because it reminds him that developers are always under time pressure
+and also that application security engineers require a whole load of tact.
+
+Abstract:
+Distributed Security Champions: working for developers
+
+Most of us are familiar with Security Champions programs and how they can help
+bridge the gap between the developers and security teams.
+Ideally when a Security Champions program is is in place then the development team can
+ensure the Secure Development LifeCycle is effective, but what about in practice?
+
+This talk seeks to identify problems with existing Security Champions programs
+and suggests a new paradigm: Distributed Security Champions.
