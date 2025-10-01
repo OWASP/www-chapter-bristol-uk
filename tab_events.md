@@ -22,6 +22,10 @@ A list of our previous events and presentations, and occasionally videos.
 
 ### 2025
 
+* [2025-9-30](https://www.meetup.com/owasp-bristol/events/311042301/):
+  * Introduction [slides](https://github.com/OWASP/www-chapter-bristol-uk/tree/main/assets/slides/2025/9-30-chapter.pdf)
+  * Talk: Distributed Security Champions, Jon Gadsden -
+    [slides](https://github.com/OWASP/www-chapter-bristol-uk/tree/main/assets/slides/2025/security-champions.pdf)
 * [2025-7-15](https://www.meetup.com/owasp-bristol/events/308810349/):
   * Talk: Implementing a bug bounty program, Ashley Dunn
   * Talk: Don't tell Mum I joined up (she thinks I'm a bicycle repair man), David Greeney
