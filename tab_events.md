@@ -8,7 +8,7 @@ meetup-group: owasp-bristol
 tags: bristol-tag
 ---
 
-## Scheduled events
+## Next event
 
 To register for this event, please visit our [Meetup](https://www.meetup.com/owasp-bristol/) page.
 
@@ -16,19 +16,18 @@ To register for this event, please visit our [Meetup](https://www.meetup.com/owa
 
 ----
 
-## Past events
-
-A list of our previous events and presentations, and occasionally videos.
-
 ### 2025
 
+* [2025-11-26](https://www.meetup.com/owasp-bristol/events/311502580/):
+  * Talk 1: Enhance Your Security Posture with the Power of Threat Modelling, Danielle Dias
+  * Talk 2: How to hack an npm package, Louie Colgan
 * [2025-9-30](https://www.meetup.com/owasp-bristol/events/311042301/):
   * Introduction [slides](https://github.com/OWASP/www-chapter-bristol-uk/tree/main/assets/slides/2025/9-30-chapter.pdf)
   * Talk: Distributed Security Champions, Jon Gadsden -
     [slides](https://github.com/OWASP/www-chapter-bristol-uk/tree/main/assets/slides/2025/security-champions.pdf)
 * [2025-7-15](https://www.meetup.com/owasp-bristol/events/308810349/):
-  * Talk: Implementing a bug bounty program, Ashley Dunn
-  * Talk: Don't tell Mum I joined up (she thinks I'm a bicycle repair man), David Greeney
+  * Talk 1: Implementing a bug bounty program, Ashley Dunn
+  * Talk 2: Don't tell Mum I joined up (she thinks I'm a bicycle repair man), David Greeney
 * [2025-3-25](https://www.meetup.com/owasp-bristol/events/306455341/):
   * Introduction [slides](https://github.com/OWASP/www-chapter-bristol-uk/tree/main/assets/slides/2025/3-25-chapter.pdf)
   * Talk: Ship Happens: The Stormy Seas of Supply Chain Security, David Archer
@@ -112,9 +111,10 @@ A list of our previous events and presentations, and occasionally videos.
 * [2018-09-27](https://www.meetup.com/owasp-bristol/events/254049195/):
   * Event: "Sharpen your Cyber SKills - CTF Event"
 * [2018-06-14](https://www.meetup.com/owasp-bristol/events/247968102/):
-  * Talk: Red Team Tactics against a Windows network, Sadi Zane -
+  * Talk 1: Red Team Tactics against a Windows network, Sadi Zane -
     [slides](https://github.com/OWASP/www-chapter-bristol-uk/blob/main/assets/slides/2018/OWASPBristol-Red_Team.pdf)
     [video](https://www.youtube.com/watch?v=s-UcuRtD4_8)
+  * Talk 2: DNS as a Cyber Security tool, Jonny Tyers
 * [2018-04-19](https://www.meetup.com/owasp-bristol/events/245738650/):
   * Talk 1: Application hacking through the eyes of an attacker, Rob Hillier -
     [slides](https://github.com/OWASP/www-chapter-bristol-uk/blob/main/assets/slides/2018/Application-Hacking-Though-The-Eyes-Of-An-Attacker.pdf)

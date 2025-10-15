@@ -1,0 +1,16 @@
+leaders:
+  - name: Craig Francis
+    email: craig.francis@owasp.org
+    github: craigfrancis
+  - name: Jon Gadsden
+    email: jon.gadsden@owasp.org
+    github: jgadsden
+name: OWASP Bristol
+pitch: This OWASP Chapter meets in person at various locations in Bristol, England.
+repositories:
+  - name: www-chapter-bristol-uk
+    url: https://github.com/OWASP/www-chapter-bristol-uk
+    description: OWASP Foundation Bristol UK chapter
+tags:
+  - bristol-chapter
+website: https://owasp.org/www-chapter-bristol-uk/
