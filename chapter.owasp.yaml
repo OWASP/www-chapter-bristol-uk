@@ -25,6 +25,6 @@ repositories:
     description: OWASP Foundation Bristol UK chapter
 tags:
   - bristol-tag
-  - custom-tag-1
-  - custom-tag-2
+  - in-person
+  - video-call
 website: https://owasp.org/www-chapter-bristol-uk
