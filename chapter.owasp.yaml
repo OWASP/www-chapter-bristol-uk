@@ -1,3 +1,8 @@
+community:
+  - name: chapter-bristol
+    platform: slack
+    url: https://owasp.slack.com/archives/CTRQ33DMK
+    description: Bristol, England, OWASP Chapter
 leaders:
   - name: Craig Francis
     email: craig.francis@owasp.org
@@ -5,12 +10,21 @@ leaders:
   - name: Jon Gadsden
     email: jon.gadsden@owasp.org
     github: jgadsden
+location:
+  country: United Kingdom
+  country_code: GB
+  region: England
+  city: Bristol
+  latitude: 51.4593656
+  longitude: -2.5836277
+meetup_group: OWASP-Bristol
 name: OWASP Bristol
-pitch: This OWASP Chapter meets in person at various locations in Bristol, England.
 repositories:
   - name: www-chapter-bristol-uk
     url: https://github.com/OWASP/www-chapter-bristol-uk
     description: OWASP Foundation Bristol UK chapter
 tags:
-  - bristol-chapter
-website: https://owasp.org/www-chapter-bristol-uk/
+  - bristol-tag
+  - in-person
+  - video-call
+website: https://owasp.org/www-chapter-bristol-uk
