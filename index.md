@@ -14,7 +14,8 @@ pitch: This OWASP Chapter meets in person at various locations in Bristol, Engla
 ## Welcome to OWASP Bristol Chapter
 
 The Bristol Chapter located in England and we are a bunch of friendly people interested in application security.
-We meet up four or five times a year to discuss a whole range of security topics, always in-person but with some of our meetings being hybrid.
+We meet up four or five times a year to discuss a whole range of security topics,
+always in-person but with some of our meetings being hybrid.
 
 The OWASP Bristol Chapter is run by [Craig Francis][craig] and [Jon Gadsden][jon].
 We are pleased to have the support of [WiTCH][witch] (Women in Tech & Cyber Hub)

@@ -122,7 +122,7 @@ To register for this event, please visit our [Meetup](https://www.meetup.com/owa
     [slides](https://github.com/OWASP/www-chapter-bristol-uk/blob/main/assets/slides/2018/Exploiting_Unknown_browsers.pdf)
 * [2018-02-15](https://www.meetup.com/owasp-bristol/events/245738659/):
   * Talk 1: Passwords cracking and countermeasure, Jamie Riden -
-    [slides](https://www.owasp.org/images/e/e0/OWASPBristol-2018-02-19-practical-password-cracking.pdf)
+    [slides](https://github.com/OWASP/www-chapter-bristol-uk/blob/main/assets/slides/2018/OWASPBristol-2018-02-19-practical-password-cracking.pdf)
   * Talk 2: The security of Blockchain, Ramesh Krishnasagar -
     [slides](https://github.com/OWASP/www-chapter-bristol-uk/blob/main/assets/slides/2018/OWASPBristol-2018-02-19-Blockchain-Security.pptx)
 
