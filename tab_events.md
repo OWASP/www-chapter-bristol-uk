@@ -19,8 +19,11 @@ To register for this event, please visit our [Meetup](https://www.meetup.com/owa
 ### 2025
 
 * [2025-11-26](https://www.meetup.com/owasp-bristol/events/311502580/):
-  * Talk 1: Enhance Your Security Posture with the Power of Threat Modelling, Danielle Dias
-  * Talk 2: How to hack an npm package, Louie Colgan
+  * Introduction [slides](https://github.com/OWASP/www-chapter-bristol-uk/tree/main/assets/slides/2025/11-26-chapter.pdf)
+  * Talk 1: Enhance Your Security Posture with the Power of Threat Modelling, Danielle Dias -
+    [slides](https://github.com/OWASP/www-chapter-bristol-uk/tree/main/assets/slides/2025/power-threat-modeling.pdf)
+  * Talk 2: How to hack an npm package, Louie Colgan -
+    [slides](https://github.com/OWASP/www-chapter-bristol-uk/tree/main/assets/slides/2025/howto-hack-npm-package.pdf)
 * [2025-9-30](https://www.meetup.com/owasp-bristol/events/311042301/):
   * Introduction [slides](https://github.com/OWASP/www-chapter-bristol-uk/tree/main/assets/slides/2025/9-30-chapter.pdf)
   * Talk: Distributed Security Champions, Jon Gadsden -
