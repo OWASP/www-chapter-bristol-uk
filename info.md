@@ -1,10 +1,10 @@
 
 ### OWASP Information
 
-* [Become a Member](https://www.owasp.org/index.php/Membership)
-* [Chapter Policy](https://owasp.org/www-policy/operational/chapters)
-* [Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement)
-* [Code of Conduct](https://owasp.org/www-policy/operational/code-of-conduct)
+* [Become a Member](https://owasp.glueup.com/)
+* [Chapter Policy](https://policy.owasp.org/operational/chapters)
+* [Speaker Agreement](https://policy.owasp.org/legal/speaker-agreement)
+* [Code of Conduct](https://policy.owasp.org/operational/code-of-conduct)
 
 ### Contact Links
 
