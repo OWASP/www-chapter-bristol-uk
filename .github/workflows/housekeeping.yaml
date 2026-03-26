@@ -5,7 +5,7 @@ on:
     - cron: '0 7 * * 6'
   workflow_dispatch:
 
-# for security reasons the github actions are pinned to specific release versions
+# for security reasons the github actions are pinned to specific SHAs
 jobs:
   chores:
     name: Tidy workflows
@@ -15,7 +15,7 @@ jobs:
 
     steps:
       - name: Delete stale workflow runs
-        uses: Mattraks/delete-workflow-runs@v2.1.0
+        uses: Mattraks/delete-workflow-runs@5bf9a1dac5c4d041c029f0a8370ddf0c5cb5aeb7
         with:
           token: ${{ github.token }}
           repository: ${{ github.repository }}
@@ -23,7 +23,7 @@ jobs:
           keep_minimum_runs: 25
 
       - name: Delete unused workflow runs
-        uses: otto-de/purge-deprecated-workflow-runs@v4.0.4
+        uses: otto-de/purge-deprecated-workflow-runs@f586d3fe7f959c38ca76a0030521dfa47946bce3
         with:
           token: ${{ github.token }}
 
@@ -33,10 +33,10 @@ jobs:
 
     steps:
       - name: Checkout markdown
-        uses: actions/checkout@v6.0.2
+        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd
 
       - name: Link Checker
-        uses: lycheeverse/lychee-action@v2.8.0
+        uses: lycheeverse/lychee-action@8646ba30535128ac92d33dfc9133794bfdd9b411
         with:
           args: --verbose --no-progress --max-retries 1 '**/*.md' '*.md'
           fail: true

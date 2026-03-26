@@ -30,7 +30,7 @@ in promoting a more diverse software security community in the South West of Eng
 ## Chapter Meetings
 
 Typically our meetings are held in the evening and last for a couple of hours.
-View the schedule on the [events tab](https://owasp.org/www-chapter-bristol-uk/#div-events)
+View the scheduled [events][events-tab]
 for our next meeting and also for past meetings.
 
 To register for an event please visit our [Meetup][meetup] page.
@@ -54,25 +54,31 @@ that works to improve the security of software.
 All of our projects, tools, documents, forums, and chapters are free
 and open to anyone interested in improving application security.
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters),
-[Events](/events), [Online Groups][groups] and [Community Slack Channel][community].
+Everyone is welcome and encouraged to participate in our [Projects][projects], [Local Chapters][chapters],
+[Events][events], [Online Groups][groups] and [Community Slack Channel][community].
 We especially encourage diversity in all our initiatives.
 
 OWASP is a fantastic place to learn about application security, to network,
 and even to build your reputation as an expert.
-We also encourage you to be [become a member](/membership)
-or consider a [donation](/donate) to support our ongoing work.
+We also encourage you to be [become a member][membership]
+or consider a [donation][donate] to support our ongoing work.
 
 Chapters are led by local leaders in accordance with the [Chapter Leader Handbook][handbook].
 
+[chapters]: https://owasp.org/chapters/
 [community]: https://owasp.slack.com/
 [craig]: mailto:craig.francis@owasp.org
+[donate]: https://owasp.org/donate/
+[events]: https://owasp.org/events/
+[events-tab]: https://owasp.org/www-chapter-bristol-uk/#div-events
 [groups]: https://groups.google.com/a/owasp.com/
-[handbook]: /www-policy/rules-of-procedure/chapter-handbook
+[handbook]: https://policy.owasp.org/operational/chapters
 [jon]: mailto:jon.gadsden@owasp.org
 [linkedin]: https://www.linkedin.com/groups/8409530/
 [meetup]: https://www.meetup.com/owasp-bristol/
+[membership]: https://owasp.glueup.com/
+[projects]: https://owasp.org/projects/
 [slack]: https://owasp.slack.com/messages/CTRQ33DMK
-[speaker]: https://owasp.org/www-policy/legal/speaker-agreement
+[speaker]: https://policy.owasp.org/legal/speaker-agreement
 [witch]: https://www.witch.online/
 [youtube]: https://www.youtube.com/@OWASPBristol/featured
