@@ -16,6 +16,12 @@ To register for this event, please visit our [Meetup](https://www.meetup.com/owa
 
 ----
 
+### 2026
+
+* [2026-06-11](https://www.meetup.com/owasp-bristol/events/314770369/):
+  * Introduction [slides](https://github.com/OWASP/www-chapter-bristol-uk/tree/main/assets/slides/2026/06-11-chapter.pdf)
+  * Secure Coding Challenge: competition provided by SecureFlag with Lewis Foggie and Elliot Mason
+
 ### 2025
 
 * [2025-11-26](https://www.meetup.com/owasp-bristol/events/311502580/):
