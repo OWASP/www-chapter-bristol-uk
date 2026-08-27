@@ -1,4 +1,5 @@
 ### Leaders
 
 * [Craig Francis](mailto:craig.francis@owasp.org)
-* [Jon Gadsden](mailto:jon.gadsden@owasp.org)
+* [Richard Dosumo](mailto:richard.dosumu@owasp.org)
+* [Paul Ward](mailto:paul.ward@owasp.org)
