@@ -3,3 +3,6 @@
 # twitter needs a login so ignore it
 https://twitter.com/
 
+# Slack tends to block bots, but not always
+owasp.slack.com
+
