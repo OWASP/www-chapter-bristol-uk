@@ -1,4 +1,6 @@
-# OWASP Bristol
+## Archived, this repo no longer is used to create the project page content
+
+### OWASP Bristol
 
 The OWASP home for the [Bristol (England) Chapter](https://owasp.org/www-chapter-bristol-uk/).
 
